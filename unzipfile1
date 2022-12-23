@@ -1,0 +1,20 @@
+{
+    "UpadeInfo": {
+        "AdsController": {
+            
+            "NetworkAds": "admob",
+            "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+            "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+            "NativeAdmob": "ca-app-pub-3940256099942544/224769611",
+
+
+            "BannerFacebook": "IMG_16_9_APP_INSTALL#357357812687742_357359689354221",
+            "InterstitialFacebook": "IMG_16_9_APP_INSTALL#357357812687742_357359959354194",
+
+            "ImageBanner": false,
+            "ImageBannerImg": "https://health-fitness.ltd/dskcommiixplayervide/logo.jpg",
+            "ImageBannerURL": "https://cryptocoinm.com"
+            
+        }
+    }
+}
